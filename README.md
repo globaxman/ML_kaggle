@@ -1,2 +1,2 @@
 # ML_kaggle
-Repository for ML projects
+Select a chellenge and dive into it
